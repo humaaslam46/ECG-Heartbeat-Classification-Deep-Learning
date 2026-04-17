@@ -27,7 +27,8 @@ This project focuses on classifying ECG (Electrocardiogram) heartbeat signals us
 - Imbalanced data distribution  
 - Time-series signal-based features  
 
-📌 *(Dataset can be added in `/data` folder or linked here)*  
+🔗 Dataset Link: https://www.kaggle.com/datasets/shayanfazeli/heartbeat  
+
 
 ---
 
@@ -94,5 +95,3 @@ This project focuses on classifying ECG (Electrocardiogram) heartbeat signals us
 - Integrate real-time ECG data  
 
 ---
-
-## 📁 Project Structure
