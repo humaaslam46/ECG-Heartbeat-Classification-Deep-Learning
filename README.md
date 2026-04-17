@@ -72,13 +72,12 @@ This project focuses on classifying ECG (Electrocardiogram) heartbeat signals us
 
 ## 📷 Visualizations
 
-### 🔹 Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+### 🔹 Comparing Models
+![Confusion Matrix](Model-Comparison.png)
 
 ### 🔹 Accuracy Graph
-![Accuracy Graph](images/accuracy_plot.png)
+![Accuracy Graph](Model-Accuracy.png)
 
-*(Upload your images in an `images/` folder and link here)*
 
 ---
 
