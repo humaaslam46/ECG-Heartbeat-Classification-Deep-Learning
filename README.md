@@ -9,7 +9,7 @@
 ---
 
 ## 🔍 Overview
-This project focuses on classifying ECG (Electrocardiogram) heartbeat signals using Machine Learning and Deep Learning techniques. The goal is to accurately detect different heartbeat patterns and support early diagnosis of cardiovascular conditions.
+This project focuses on classifying ECG (Electrocardiogram) heartbeat signals using Machine Learning and Deep Learning techniques. The goal is to accurately detect different heartbeat patterns and support early diagnosis of cardiovascular conditions
 
 ---
 
